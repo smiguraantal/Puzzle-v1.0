@@ -65,10 +65,6 @@ The game interface can be changed to three different "themes," each providing a 
 - Metal
 - CDE/Motif
 
-## Source code
-
-The source code is currently under review and will be uploaded at a later time.
-
 ## Screenshots
 
 <img src=docs/01.png alt="" width="400">
